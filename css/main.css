@@ -82,6 +82,11 @@ i{
   font-size: 40px;
 }
 
+#mySidenav img{
+  height:50px;
+  width:50px;
+}
+
 /*Search and User*/
 #closer{
   display: inline-block;
@@ -104,8 +109,8 @@ i{
 
 
 /*Photo Nav Bar*/
-#phot{
-
+#phot h3{
+  font-weight:lighter;
 }
 
 #folder-icon{
@@ -126,85 +131,85 @@ i{
 
 /*IMAGES*/
 img{
-  width: 150px;
+  width: 200px;
   height: 200px;
 }
 
 
 /*column-1*/
 #column-1 .col-1{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 
 #column-1 .col-2{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 #column-1 .col-3{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 
 #column-1 .col-4{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 
 
 #column-1 .col-5{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 
 /*column-2*/
 #column-2 .col-1{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 
 #column-2 .col-2{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 #column-2 .col-3{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 
 #column-2 .col-4{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 
 
 #column-2 .col-5{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 
 /*column-3*/
 #column-3 .col-1{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 
 #column-3 .col-2{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 #column-3 .col-3{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 
 #column-3 .col-4{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
 
 
 #column-3 .col-5{
-  width: 19%;
+  width: 19.5%;
   display: inline-block;
 }
