@@ -81,3 +81,43 @@ i{
   text-align: center;
   font-size: 40px;
 }
+
+/*Search and User*/
+#closer{
+  display: inline-block;
+  background-color: #fff;
+}
+
+#search{
+  float: left;
+  width: 50%;
+}
+
+#user{
+  float: right;
+  width: 50%;
+  margin-left: 900px;
+  text-align: right;
+  margin-bottom: -100px;
+  margin-top: -20px;
+}
+
+
+/*Photo Nav Bar*/
+#phot{
+
+}
+
+#folder-icon{
+  background-color:#444C63;
+}
+
+#folder-icon .folders{
+  float: left;
+}
+
+#folder-icon .nav-right{
+  float: right;
+  text-decoration: none;
+  color: #444C63;
+}
