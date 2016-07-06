@@ -114,10 +114,96 @@ i{
 
 #folder-icon .folders{
   float: left;
+  font-size: 25px;
 }
 
-#folder-icon .nav-right{
+#folder-icon #nav{
   float: right;
   text-decoration: none;
   color: #444C63;
+}
+
+/*IMAGES*/
+img{
+  width: 150px;
+  height: 200px;
+}
+
+
+/*column-1*/
+#column-1 .col-1{
+  width: 19%;
+  display: inline-block;
+}
+
+#column-1 .col-2{
+  width: 19%;
+  display: inline-block;
+}
+#column-1 .col-3{
+  width: 19%;
+  display: inline-block;
+}
+
+#column-1 .col-4{
+  width: 19%;
+  display: inline-block;
+}
+
+
+#column-1 .col-5{
+  width: 19%;
+  display: inline-block;
+}
+
+/*column-2*/
+#column-2 .col-1{
+  width: 19%;
+  display: inline-block;
+}
+
+#column-2 .col-2{
+  width: 19%;
+  display: inline-block;
+}
+#column-2 .col-3{
+  width: 19%;
+  display: inline-block;
+}
+
+#column-2 .col-4{
+  width: 19%;
+  display: inline-block;
+}
+
+
+#column-2 .col-5{
+  width: 19%;
+  display: inline-block;
+}
+
+/*column-3*/
+#column-3 .col-1{
+  width: 19%;
+  display: inline-block;
+}
+
+#column-3 .col-2{
+  width: 19%;
+  display: inline-block;
+}
+#column-3 .col-3{
+  width: 19%;
+  display: inline-block;
+}
+
+#column-3 .col-4{
+  width: 19%;
+  display: inline-block;
+}
+
+
+#column-3 .col-5{
+  width: 19%;
+  display: inline-block;
 }
