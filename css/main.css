@@ -6,7 +6,7 @@
     z-index: 1; /* Stay on top */
     top: 0;
     left: 0;
-    background-color: #111; /* Black*/
+    background-color: #444C63; /* Black*/
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
@@ -17,7 +17,7 @@
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: #00B5F9;
     display: block;
     transition: 0.3s
 }
@@ -46,4 +46,38 @@
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
+}
+
+#GB{
+  margin-top: 90px;
+  color: #fff;
+}
+
+
+
+/*border on upgrade account*/
+#iborder{
+  border: 1px solid #00B5F9;
+  margin-top: 30px;
+  color: #fff;
+  border-radius: 5px;
+  width: 205px;
+}
+
+
+/*Menu styles*/
+span{
+  font-size: 30px;
+  background-color: #444C63;
+  color: #00B5F9;
+}
+
+i{
+  color: #00B5F9;
+}
+
+/*inmenu icon*/
+#inmenu{
+  text-align: center;
+  font-size: 40px;
 }
