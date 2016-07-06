@@ -137,6 +137,10 @@ img{
 
 
 /*column-1*/
+#column-1{
+  text-align: center;
+}
+
 #column-1 .col-1{
   width: 19.5%;
   display: inline-block;
@@ -163,6 +167,10 @@ img{
 }
 
 /*column-2*/
+#column-2{
+  text-align: center;
+}
+
 #column-2 .col-1{
   width: 19.5%;
   display: inline-block;
@@ -189,6 +197,10 @@ img{
 }
 
 /*column-3*/
+#column-3{
+  text-align: center;
+}
+
 #column-3 .col-1{
   width: 19.5%;
   display: inline-block;
